@@ -1,1 +1,6 @@
-document.write("Suma: 3 + 5 = " + (3 + 5));
+/*
+Ejercicio 6
+Escribe un programa de una sola línea que escriba en la pantalla el resultado de sumar 3 + 5.
+*/
+
+document.write("Suma: " + (3 + 5));
