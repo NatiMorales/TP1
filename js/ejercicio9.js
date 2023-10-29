@@ -1,3 +1,8 @@
+/*
+Ejercicio 9
+Escribe un programa que pida dos números y escriba en la pantalla cual es el mayor.
+*/
+
 let numero1 = parseInt(prompt("Ingrese un número: "));
 let numero2 = parseInt(prompt("Ingrese otro número: "));
 
